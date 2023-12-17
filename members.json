@@ -1,0 +1,147 @@
+{
+  "people": [
+    {
+      "name": "Ionut Ciobanu",
+      "gender": "Male",
+      "address": "Str. Păcurari 012, Victoria, Prahova, CP 069810",
+      "phone_number": "0341105902",
+      "fake_online_data": {
+        "email": "nnecula@soare.net",
+        "ip": "71.92.207.172",
+        "username": "ionutnu",
+        "password": "52f29eec"
+      },
+      "university": "Universitatea Petrol-Gaze din Ploiești"
+    },
+    {
+      "name": "Cristi Moisescu",
+      "gender": "Male",
+      "address": "B-dul. Făget nr. 6, bl. D, sc. A, et. 96, ap. 05, Borșa, București, CP 396097",
+      "phone_number": "0343342676",
+      "fake_online_data": {
+        "email": "fcatana@gmail.com",
+        "ip": "133.195.112.151",
+        "username": "cristiscu",
+        "password": "d256f89a"
+      },
+      "university": "Universitatea din București"
+    },
+    {
+      "name": "Alecu Niță",
+      "gender": "Male",
+      "address": "Splaiul Meșterilor 678, Toplița, Galați, CP 378653",
+      "phone_number": "0368142111",
+      "fake_online_data": {
+        "email": "florin45@avram.com",
+        "ip": "217.98.185.76",
+        "username": "alecuta",
+        "password": "f959d046"
+      },
+      "university": "Universitatea Dunărea de Jos"
+    },
+    {
+      "name": "Horia Cătălin",
+      "gender": "Male",
+      "address": "Splaiul Jiului nr. 8, bl. B, et. 8, ap. 62, Târgu Secuiesc, Tulcea, CP 890591",
+      "phone_number": "0215430464",
+      "fake_online_data": {
+        "email": "radu.cosmina@iosif.biz",
+        "ip": "144.140.167.239",
+        "username": "horiin",
+        "password": "0f1f3c6d"
+      },
+      "university": "Universitatea ANDREI ȘAGUNA"
+    },
+    {
+      "name": "Mădălin Stanciu",
+      "gender": "Male",
+      "address": "B-dul. Sinaia nr. 556, bl. D, sc. A, et. 75, ap. 46, Mun. Caransebeș, Călărași, CP 586916",
+      "phone_number": "0767715969",
+      "fake_online_data": {
+        "email": "agavrila@munteanu.net",
+        "ip": "4.134.252.192",
+        "username": "madaliiu",
+        "password": "2c5b7260"
+      },
+      "university": "Facultatea de Teologie, Științe Sociale și ale Educației"
+    },
+    {
+      "name": "Vlad Negoiță",
+      "gender": "Male",
+      "address": "Calea Mihai Viteazul nr. 184, bl. 1, sc. A, et. 3, ap. 96, Mun. Lugoj, Constanța, CP 425243",
+      "phone_number": "0760362997",
+      "fake_online_data": {
+        "email": "giorgian.ignat@nicolae.com",
+        "ip": "221.29.188.80",
+        "username": "vladnita",
+        "password": "552cd886"
+      },
+      "university": "Universitatea Europeană Drăgan din Lugoj"
+    },
+    {
+      "name": "Mirel Stan",
+      "gender": "Male",
+      "address": "Aleea Croitorilor 40, Mun. Ștei, Sibiu, CP 823420",
+      "phone_number": "0319800924",
+      "fake_online_data": {
+        "email": "jmuntean@yahoo.com",
+        "ip": "8.92.14.210",
+        "username": "mirelsan",
+        "password": "759f2b52"
+      },
+      "university": "Universitatea Lucian Blaga din Sibiu"
+    },
+    {
+      "name": "Ovidiu Lupu",
+      "gender": "Male",
+      "address": "Splaiul Salcâmilor nr. 787, bl. 57, et. 44, ap. 12, Milișăuți, Hunedoara, CP 716271",
+      "phone_number": "0768713499",
+      "fake_online_data": {
+        "email": "marcela23@militaru.org",
+        "ip": "128.140.64.69",
+        "username": "ovidipu",
+        "password": "43fbec56"
+      },
+      "university": "Facultatea de Inginerie din Hunedoara"
+    },
+    {
+      "name": "Anton Ionescu",
+      "gender": "Male",
+      "address": "Str. Mesteacănului 81, Cluj-Napoca, Tulcea, CP 904569",
+      "phone_number": "0793919716",
+      "fake_online_data": {
+        "email": "udan@nicoara.info",
+        "ip": "13.232.3.162",
+        "username": "antoncu",
+        "password": "5ca33740"
+      },
+      "university": "Universitatea de Vest Timisoara"
+    },
+    {
+      "name": "Gabriel Andreescu",
+      "gender": "Male",
+      "address": "Aleea Herculane nr. 4A, bl. A, ap. 5, Mun. Curtea de Argeș, București, CP 262365",
+      "phone_number": "0764711258",
+      "fake_online_data": {
+        "email": "melania.bunea@gmail.com",
+        "ip": "117.12.12.10",
+        "username": "gabrcu",
+        "password": "cbdf242f"
+      },
+      "university": "U.N.S.T. POLITEHNICA București"
+    },
+    {
+      "name": "Aurel Țânțaru",
+      "gender": "Male",
+      "address": "",
+      "phone_number": "0764312228",
+      "fake_online_data": {
+        "email": "tantaru.aurel@gmail.com",
+        "ip": "114.13.22.09",
+        "username": "tantaru_aurel",
+        "password": "bb4fea2f"
+      },
+      "university": "Universitatea de Vest Timisoara"
+    }
+  ]
+}
